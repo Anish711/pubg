@@ -2,16 +2,16 @@
 bin-debug/
 bin-release/
 [Oo]bj/
-[Bb]in/
+[Bb]in/http.facbooc.com
 
 # Other files and folders
 .settings/
 
 # Executables
-*.swf
+*.swf mobail
 *.air
-*.ipa
-*.apk
+*.ipa  
+*.apk pubg
 
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
 # should NOT be excluded as they contain compiler settings and other important
